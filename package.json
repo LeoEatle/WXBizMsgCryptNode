@@ -1,0 +1,19 @@
+{
+  "name": "wxbizmsgcryptnode",
+  "version": "1.0.0",
+  "description": "For wework robot message encryption and decryption. C++ addon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoEatle/WXBizMsgCryptNode.git"
+  },
+  "author": "leoeatle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoEatle/WXBizMsgCryptNode/issues"
+  },
+  "homepage": "https://github.com/LeoEatle/WXBizMsgCryptNode#readme"
+}
